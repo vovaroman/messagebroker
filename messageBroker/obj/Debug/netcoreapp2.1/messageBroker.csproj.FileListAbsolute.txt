@@ -1,0 +1,11 @@
+/Users/vr/Desktop/messagebroker/messageBroker/obj/Debug/netcoreapp2.1/messageBroker.csprojAssemblyReference.cache
+/Users/vr/Desktop/messagebroker/messageBroker/obj/Debug/netcoreapp2.1/messageBroker.csproj.CoreCompileInputs.cache
+/Users/vr/Desktop/messagebroker/messageBroker/obj/Debug/netcoreapp2.1/messageBroker.AssemblyInfoInputs.cache
+/Users/vr/Desktop/messagebroker/messageBroker/obj/Debug/netcoreapp2.1/messageBroker.AssemblyInfo.cs
+/Users/vr/Desktop/messagebroker/messageBroker/bin/Debug/netcoreapp2.1/messageBroker.deps.json
+/Users/vr/Desktop/messagebroker/messageBroker/bin/Debug/netcoreapp2.1/messageBroker.runtimeconfig.json
+/Users/vr/Desktop/messagebroker/messageBroker/bin/Debug/netcoreapp2.1/messageBroker.runtimeconfig.dev.json
+/Users/vr/Desktop/messagebroker/messageBroker/bin/Debug/netcoreapp2.1/messageBroker.dll
+/Users/vr/Desktop/messagebroker/messageBroker/bin/Debug/netcoreapp2.1/messageBroker.pdb
+/Users/vr/Desktop/messagebroker/messageBroker/obj/Debug/netcoreapp2.1/messageBroker.dll
+/Users/vr/Desktop/messagebroker/messageBroker/obj/Debug/netcoreapp2.1/messageBroker.pdb

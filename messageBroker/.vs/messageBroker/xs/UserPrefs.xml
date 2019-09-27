@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{FB5E26FF-9BCB-4CAB-8ED9-8EE7F9F1F586}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClientDiscover.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="ClientsControl.cs" Line="1" Column="1" />
+      <File FileName="ClientDiscover.cs" Line="110" Column="26" />
+      <File FileName="Connectors/MysqlConnector.cs" Line="93" Column="1" />
+      <File FileName="Helper.cs" Line="15" Column="26" />
+      <File FileName="RequestListener.cs" Line="1" Column="1" />
+      <File FileName="Models/Client.cs" />
+      <File FileName="Translator.cs" Line="20" Column="68" />
+      <File FileName="Models/MessageModel.cs" Line="1" Column="1" />
+      <File FileName="ContentEnchanter.cs" Line="1" Column="1" />
+      <File FileName="IClient.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="messageBroker" expanded="True">
+            <Node name="messageBroker" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="SdkDependencies" expanded="True" />
+              </Node>
+              <Node name="Connectors" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="ClientDiscover.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.messageBroker PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
